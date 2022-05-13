@@ -37,6 +37,7 @@ namespace CursoCSharp
 
                 //Classes e Métodos
                 {"Classes - Classes e Métodos", Membros.Executar},
+                {"Classes - Construtores", Construtores.Executar},
             });
 
             central.SelecionarEExecutar();
