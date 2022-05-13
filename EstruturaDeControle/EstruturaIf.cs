@@ -14,7 +14,7 @@ namespace CursoCSharp.EstruturaDeControle
              
             if (aprovado)
             {
-                Console.WriteLine("Paraben!");
+                Console.WriteLine("Parabens!");
             }
         }
     }
