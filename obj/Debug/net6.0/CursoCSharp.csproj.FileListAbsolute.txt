@@ -43,3 +43,6 @@ C:\Users\jeffe\source\repos\AprendendoCSharp\obj\Debug\net6.0\refint\CursoCSharp
 C:\Users\jeffe\source\repos\AprendendoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\Users\jeffe\source\repos\AprendendoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\jeffe\source\repos\AprendendoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\User\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\User\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\FakeItEasy.dll
+C:\Users\User\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
